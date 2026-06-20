@@ -1,3 +1,4 @@
+import Register from "./components/Register/Register";
 import LoginPanel from "./components/Login/Login"
 import { Routes, Route } from "react-router-dom";
 
